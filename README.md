@@ -1,16 +1,16 @@
 # Operating Systems
 
-## CECS 326: Section 2 (1147)
+## CECS 326: Section 1 (1136)
 
-### Spring 2022
+### Spring 2023
 
-| Class Lecture | Time               | Room    |
-|---------------|--------------------|---------|
-| Mon Wed       | 2:00 PM - 3:15 PM  | HC-102  |
+| Class Lecture | Time                | Room    |
+|---------------|---------------------|---------|
+| Tue Thu       | 11:00 AM - 12:15 PM | HC-100  |
 
 | Instructor        | Email                       | Office  | Office Hours           |
-|-------------------|-----------------------------|---------|------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-526 | 10:45 - 11:45 AM, 3:15 - 4:15 PM Mon Wed |
+|-------------------|-----------------------------|---------|----------------------------|
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 - 11:00 AM Mon-Thu |
 
 ### Required Textbook
 
@@ -62,11 +62,11 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 * Homework and lab assignments are due on the date and time indicated on [Github Classroom](http://classroom.github.com)
 * Homework may include writing code, doing research, essay writing, debugging programs, and other disciplines.
-* Lab assignments will be coding exercises designed to practice the concepts discussed in lecture.
-* You are welcome to work on homework and lab assignments at home, but assistance will only be provided during lab time and office hours.
+* Lab assignments will be coding projects designed to practice the concepts discussed in lecture.
+* You are welcome to work on homework and lab assignments at home, but assistance will only be provided during classtime or office hours.
 * Labs will be graded on correct answers to required deliverables and/or the completeness of the assignment. Incomplete assignments may receive partial or no credit at the discretion of the instructor.
 * Students will be expected to read selections from the textbook for every lecture session. These readings should be done before class so that we can have a discussion on the topics during the lecture.
-* During exams, there will be *no bathroom breaks*. Please be sure to use the restroom prior to the start of the exam. If a student leaves the classroom before the exam has been concluded, that student forfeits the completion of the rest of their exam.
+* During in-class exams or quizzes, there will be *no bathroom breaks*. Please be sure to use the restroom prior to the start of the exam. If a student leaves the classroom before the exam has been concluded, that student forfeits the completion of the rest of their exam.
 * All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's own comments *will not receive any credit*.
 
 **Late assignments** will, at a minimum, be subject to a 10% reduction in grade *per day* that the assignment is late. I do not accept homework submissions via email, fax, or any other means than the deliverable requirements listed on the assignment specification.
@@ -75,22 +75,21 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                  |
 |------------|------------------------------------------|
-| Jan 20     | No class                                 |
-| Jan 27     | Introduction to Operating Systems (Ch 1) |
-| Feb  3     | Processes and Threads (Ch 2)             |
-| Feb 10     | Processes and Threads, ctd               |
-| Feb 17     | First Midterm, Memory Management (Ch 3)  |
-| Feb 24     | Memory Management, ctd                   |
-| Mar  2     | Deadlocks                                |
-| Mar  9     | Deadlocks, ctd                           |
-| Mar 16     | I/O (ch 5)                               |
-| Mar 23     | I/O, ctd                                 |
-| Mar 30     | Spring Break                             |
-| Apr  6     | Second Midterm, File Systems (Ch 6)      |
-| Apr 13     | File Systems, ctd                        |
-| Apr 20     | Virtualization (Ch 7)                    |
-| Apr 27     | Virtualization, ctd                      |
-| May  4-11  | Case Study, Final Exam                   |
+| Jan 19, 23 | Introduction to Operating Systems (Ch 1) |
+| Feb  1     | Processes and Threads (Ch 2)             |
+| Feb  6     | Processes and Threads, ctd               |
+| Feb 13     | First Midterm, Memory Management (Ch 3)  |
+| Feb 20     | Memory Management, ctd                   |
+| Feb 27     | Deadlocks                                |
+| Mar  6     | Deadlocks, ctd                           |
+| Mar 13     | I/O (ch 5)                               |
+| Mar 20     | I/O, ctd                                 |
+| Mar 27     | **Spring Break**                         |
+| Apr  3     | Second Midterm, File Systems (Ch 6)      |
+| Apr 10     | File Systems, ctd                        |
+| Apr 17     | Virtualization (Ch 7)                    |
+| Apr 24     | Virtualization, ctd                      |
+| May  1, 8  | Case Study, Final Exam                   |
 
 ### Computer Software
 
